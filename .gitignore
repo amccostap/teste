@@ -1,0 +1,11 @@
+*.log
+*.log
+*.ctxt
+build/
+dist/
+nbdist/
+nbbuild/
+.nb_gradle
+spot.xml
+hs_err_pid*
+
